@@ -45,14 +45,14 @@
     "cheerio-without-node-native": "^0.20.2",
     "download-file": "^0.1.5",
     "express": "^4.16.2",
-    "morgan": "^1.9.0",
+    "morgan": ">=1.9.1",
     "node-fetch": "^2.2.0",
     "pug": "^2.0.0-beta11",
     "rimraf": "^2.6.2",
     "sqlite3": "^4.0.2"
 =======
     "express": "^4.16.2",
-    "morgan": "^1.9.0",
+    "morgan": ">=1.9.1",
     "pug": "^2.0.0-beta11",
     "rimraf": "^2.6.2"
 >>>>>>> 6228f2b5b7a3224dd5fb46e9dff0ae42de23f0d3
